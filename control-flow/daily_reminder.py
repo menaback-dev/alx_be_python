@@ -21,4 +21,4 @@ if time_bound == "yes":
 else:
     reminder = f"Note: '{task}' is a {priority} priority task. Consider completing it when you have free time."
 
-print("\nReminder:", reminder)
+print(f"Reminder: {reminder}")
