@@ -3,7 +3,7 @@ def perform_operation(num1, num2, operation):
         case "add":
             result = num1 + num2
             return result          
-        case "substract":
+        case "subtract":
             result = num1 - num2
             return result           
         case "multiply":
